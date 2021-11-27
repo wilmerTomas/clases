@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">clases</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="button_next">Next</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="error_password">Password must contain al least 6 characters.</string>
+    <string name="product_tittle">Title</string>
+    <string name="product_description">Title</string>
+</resources>
